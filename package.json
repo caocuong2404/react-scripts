@@ -1,0 +1,8 @@
+{
+  "name": "react-scripts",
+  "version": "1.0.0",
+  "description": "Configuration and scripts for Create React App.",
+  "repository": "git@github.com:caocuong2404/react-scripts.git",
+  "author": "Nguyen Cao Cuong (Peter James) <peterjames.gen@gmail.com>",
+  "license": "MIT"
+}
