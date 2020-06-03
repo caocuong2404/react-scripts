@@ -259,11 +259,11 @@ function verifyTypeScriptSetup() {
     writeJson(paths.appTsConfig, appTsConfig);
   }
 
-  // Reference `react-scripts` types
+  // Reference `rs-webpack` types
   if (!fs.existsSync(paths.appTypeDeclarations)) {
     fs.writeFileSync(
       paths.appTypeDeclarations,
-      `/// <reference types="react-scripts" />${os.EOL}`
+      `/// <reference types="rs-webpack" />${os.EOL}`
     );
   }
 }
