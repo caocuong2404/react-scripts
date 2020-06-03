@@ -1,15 +1,15 @@
 {
-  "name": "react-scripts",
+  "name": "rs-webpack",
   "version": "1.0.0",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "https://github.com/caocuong2404/react-scripts.git",
+  "description": "React Script Webpack - Configuration and scripts for Create React App.",
+  "repository": "https://github.com/caocuong2404/rs-webpack.git",
   "author": "Nguyen Cao Cuong (Peter James) <peterjames.gen@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/caocuong2404/react-scripts/issues"
+    "url": "https://github.com/caocuong2404/rs-webpack/issues"
   },
   "files": [
     "bin",
@@ -18,7 +18,7 @@
     "scripts"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "rs-webpack": "./bin/rs-webpack.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
