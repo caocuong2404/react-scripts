@@ -1,6 +1,6 @@
 {
   "name": "rs-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Script Webpack - Configuration and scripts for Create React App.",
   "repository": "https://github.com/caocuong2404/rs-webpack.git",
   "author": "Nguyen Cao Cuong (Peter James) <peterjames.gen@gmail.com>",
